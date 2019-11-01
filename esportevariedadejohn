@@ -1,0 +1,148 @@
+#EXTM3U
+
+###########################################################################################
+######################################## INFORMACOES ######################################
+###########################################################################################
+
+#PLAYLISTV: pltv-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/07/Globo-SBT-Record-e-Band.jpg" pltv-name="Canais" pltv-description="Lista de Canais" pltv-cover="https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca56ca5fb/svn/brewster-wallpaper-3097-05sam-64_1000.jpg"
+
+#EXTINF:-1 group-title="Atualizada 02.01.2019 ", Atualizada
+https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca56ca5fb/svn/brewster-wallpaper-3097-05sam-64_1000.jpg
+
+
+
+###########################################################################################
+########################################   CANAIS   #######################################
+###########################################################################################
+
+
+#EXTINF:-1 tvg-id="SBT GO" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT GO HD
+http://us12.server.kecho.store/HD_ESPN_BRASIL/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTM3U
+
+###########################################################################################
+######################################## INFORMACOES ######################################
+###########################################################################################
+
+#PLAYLISTV: pltv-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/07/Globo-SBT-Record-e-Band.jpg" pltv-name="Canais" pltv-description="Lista de Canais" pltv-cover="https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca56ca5fb/svn/brewster-wallpaper-3097-05sam-64_1000.jpg"
+
+#EXTINF:-1 group-title="Atualizada 02.01.2019 ", Atualizada
+https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca56ca5fb/svn/brewster-wallpaper-3097-05sam-64_1000.jpg
+
+
+
+###########################################################################################
+########################################   CANAIS   #######################################
+###########################################################################################
+
+
+#EXTINF:-1 tvg-id="SBT GO" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT GO HD
+http://us14.server.kpbravo.xyz/HD_COMBATE/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id="SBT GO" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT GO HD
+http://ge.server.kyankee.live/HD_DAZN_1/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id="SBT GO" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT GO SD
+http://us12.server.kkcharlie.xyz/HD_ESPN_2/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f 
+
+#EXTINF:-1 tvg-id="SBT MT" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT - CENTRO OESTE MT
+http://us12.server.kkdelta.xyz/FHD_ESPN_BRASIL/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id="SBT PI" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT PI HD
+http://us12.server.kktango.xyz/HD_ESPN_BRASIL/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT PE SD
+http://pl.server.kkecho.xyz/HD_ESPN_EXTRA/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT PE HD
+http://us12.server.kkbravo.xyz/HD_ESPN/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT PE HD
+http://us13.server.kkx-ray.xyz/SD_ESPORTE_INTERATIVO_1/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT - PE | CARUARÚ
+http://eu.server.kudagama.live/HD_ESPORTE_INTERATIVO_2_ALTER/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id="SBT MA" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT MA
+http://ge.server.kx-ray.live/HD_FOX_SPORTS_1/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id="SBT MA" tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="Canais", SBT - MA | IMPERATRIZ
+http://ge.server.kwhiskey.live/FHD_FOX_SPORTS_1/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/ycxuvbuh" group-title="Canais", Globo SD
+http://us12.server.kklima.xyz/HD_FOX_SPORTS_2/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id="BAND SP" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Canais", BAND SP
+http://us12.server.kkbravo.xyz/FHD_FOX_SPORTS_2/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-logo="http://tbsila.cdn.turner.com/tbsila/tntla/tntla-main-theme/images/custom/thumb.jpg" group-title="Canais", TNT
+http://us14.server.kpalfa.xyz/HD_PFC_2/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id="SBT GO" tvg-logo="https://media.lovemondays.com.br/logos/e7f696/redetv-1-original.png" group-title="Canais", Rede TV
+http://us14.server.kpalfa.xyz/HD_PFC_3/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id="BAND SP"tvg-logo="https://i0.wp.com/s6.postimg.org/ttsxgsc1t/band.png" group-title="Canais", JOGO ABERTO
+http://ge.server.kwhiskey.live/HD_PFC_4/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id="BAND SP"tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Canais", OS DONOS DA BOLA 
+http://ge.server.kwhiskey.live/HD_PFC_5/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id="BAND PA" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Canais", BAND PA
+http://ge.server.kvictor.live/HD_PFC_6/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id="BAND PA" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Canais", BAND PA
+http://ge.server.kx-ray.live/HD_PFC_7/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id"REDE TV SP"  tvg-logo="https://i.imgur.com/MEBQV6z.png group-title="Canais", REDE TV SP
+http://us14.server.kpecho.xyz/HD_PFC_CLUBES/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id"REDE TV SP"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais", REDE TV SP
+http://ge.server.kx-ray.live/HD_SPORTV_2/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id"REDE TV SP" tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais",  REDE TV SP
+http://ge.server.kx-ray.live/HD_SPORTV_3/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id"REDE TV RJ"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais", REDE TV RJ
+http://ge.server.kuniform.live/HD_FOX_PREMIUM_1/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id"REDE TV PB"  tvg-logo="https://i.imgur.com/Ws1QHgq.png?1" group-title="Canais", REDE TV PB
+http://us12.server.kkdelta.xyz/HD_FOX_PREMIUM_2/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id"REDE TV PB"  tvg-logo="https://i.imgur.com/Ws1QHgq.png?1" group-title="Canais", REDE TV PB
+http://ge.server.kvictor.live/HD_FX/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id"REDE TV! - RONDÔNIA"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais", REDE TV! - RONDÔNIA
+http://us12.server.kkdelta.xyz/HD_HBO_1/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id="RECORD MT" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais",RECORD TV ÁGUA BOA
+http://ge.server.kyankee.live/HD_MEGAPIX/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id="RECORD AM" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", TV ACRITICA - RECORD AM
+http://us12.server.kkdelta.xyz/HD_SPACE/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id="RECORD GO" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", RECORD GO
+http://us12.server.kktango.xyz/FHD_SPACE/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id="RECORD GO" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", RECORD GO
+http://us12.server.kecho.store/FHD_TNT/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id="RIC TV - RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", RIC TV - RECORD PARÁ
+http://ge.server.kwhiskey.live/HD_TNT/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id="RIC TV - RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", RIC TV - RECORD PARÁ
+http://us12.server.kktango.xyz/HD_WARNER/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id="RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", RECORD RN
+http://ge.server.kx-ray.live/HD_BIS/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id="RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", RECORD MT
+http://ge.server.kx-ray.live/HD_MULTISHOW/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id="RECORD" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", RECORD MT
+http://pl.server.kkecho.xyz/HD_GLOBONEWS/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+#EXTINF:-1 tvg-id="RECORD"  tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="Canais", TV VITORIA - RECORD 
+http://us12.server.kkvictor.xyz/HD_A_FAZENDA/video.m3u8?token=2cd29d230d7dbd6b6df9712b4324e99f
+
+
